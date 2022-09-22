@@ -456,3 +456,26 @@ footer li span {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
 }
+
+
+/* Formulario
+
+.formulario{
+    background-color: gray;
+    width: min( 960px, 100%);
+    margin: 0 auto;
+    border-radius: 16px;
+}
+
+.formulario fieldset{
+    border: none;
+}
+
+.formulario legend{
+    text-align: center;
+    font-size: 28.8px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 32px;
+    color: rgb(161, 1, 11);
+} */
